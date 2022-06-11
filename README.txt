@@ -1,4 +1,4 @@
-To run got to Game folder' and select New Unity Project.exe
+To run go to Game folder' and select New Unity Project.exe
 
 controls: 
 .Movement: arrow keys & W,S,A,D
